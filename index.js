@@ -1,6 +1,8 @@
 const fetch = require('node-fetch');
 const randomstring = require("randomstring");
 
+// how many times you want to check a invite? 1000 is a second. 15000 is 15 seconds.
+// this could end you to be rate-limited from the discord api.
 const checkInterval = 15000
 
 setInterval(() => {
