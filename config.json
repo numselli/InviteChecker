@@ -1,0 +1,9 @@
+{
+    "discordWebhook": "",
+   
+    "endableRandomInvite": true,
+    "RandomcheckInterval": 1500,
+
+    "endableCustomInvite": true,
+    "CustomcheckInterval": 1500
+}

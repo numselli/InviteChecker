@@ -4,7 +4,9 @@ One thing: use at your own risk, and i'm not responsible for anything that happe
 
 ## Install
 Open up console and type `npm install`<br>
-Then run `node index.js` or `nodemon index.js` if you have nodemon installed.
+Open config.json and add your webhook to `discordWebhook`<br>
+
+Then run `node index.js`
 <br><br>
 Once a discord invite code is found, the server name and invite url will be added to the invites.json file
 <br><br>
